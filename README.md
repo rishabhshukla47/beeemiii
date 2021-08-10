@@ -9,19 +9,19 @@ This application can be used to calculate BMI of a user based on his/her physica
 
 ## Installation
 
-### Prerequisites
+#### Prerequisites
 * Working flutter environment.<br/>
 
-### Guides
+#### Guides
 * [Flutter setup guide](https://flutter.dev/docs/get-started/install)
 * [New flutter project](https://flutter.dev/docs/get-started/test-drive?tab=androidstudio) 
 * [Using Packages](https://flutter.dev/docs/development/packages-and-plugins/using-packages)
 
-### Key commands
+#### Key commands
 * flutter pub get (install packages and dependencies)
 * flutter run --release (run release build)
 
-### Steps
+#### Steps
 * Setup Flutter environment
 * Create a new flutter project
 * Replace lib folder and pubspec.yaml file with that from repo.
