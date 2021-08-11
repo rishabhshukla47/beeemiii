@@ -41,3 +41,6 @@ This application can be used to calculate BMI of a user based on his/her physica
 ## Showcase
 ![bmi](https://user-images.githubusercontent.com/83495424/128887589-00f2be1e-6367-4d8a-a693-63da323642bd.gif)
 
+## Credits
+Inspired by BMI app ( creator: [The App Brewery](https://www.appbrewery.co/))
+
