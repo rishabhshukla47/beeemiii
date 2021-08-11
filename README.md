@@ -25,6 +25,8 @@ This application can be used to calculate BMI of a user based on his/her physica
 * Setup Flutter environment
 * Create a new flutter project
 * Replace lib folder and pubspec.yaml file with that from repo.
+* Add fonts directory.
+* Run pub get.
 * Connect emulator or physical device.
 * Run the applicaion using run button or terminal command: "flutter run" (in root directory)
 
@@ -32,15 +34,15 @@ This application can be used to calculate BMI of a user based on his/her physica
 
 <img src="https://user-images.githubusercontent.com/83495424/128884197-94f51c1f-2a9e-48ca-a046-b7ca5481fe8a.jpeg" alt="alt text" width="300" height="624">
 
-* Open the application
-* Select gender
-* Select height using slider
-* Select weight and age
-* Press on calculate
+* Open the application.
+* Select gender.
+* Select height using slider.
+* Select weight and age.
+* Press on calculate.
 
 ## Showcase
 ![bmi](https://user-images.githubusercontent.com/83495424/128887589-00f2be1e-6367-4d8a-a693-63da323642bd.gif)
 
 ## Credits
-Inspired by BMI app ( creator: [The App Brewery](https://www.appbrewery.co/))
+Inspired by BMI app ( creator: [The App Brewery](https://www.appbrewery.co/)).
 
