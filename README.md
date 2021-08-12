@@ -7,6 +7,9 @@ A BMI calculator application
 This application can be used to calculate BMI of a user based on his/her physical parameters.<br/>
 *Body Mass Index (BMI) is a person’s weight in kilograms divided by the square of height in meters. A high BMI can indicate high body fatness. BMI screens for weight categories that may lead to health problems, but it does not diagnose the body fatness or health of an individual.*
 
+## Showcase
+![bmi](https://user-images.githubusercontent.com/83495424/128887589-00f2be1e-6367-4d8a-a693-63da323642bd.gif)
+
 ## Installation
 
 #### Prerequisites
@@ -39,9 +42,6 @@ This application can be used to calculate BMI of a user based on his/her physica
 * Select height using slider.
 * Select weight and age.
 * Press on calculate.
-
-## Showcase
-![bmi](https://user-images.githubusercontent.com/83495424/128887589-00f2be1e-6367-4d8a-a693-63da323642bd.gif)
 
 ## Credits
 Inspired by BMI app (creator: [The App Brewery](https://www.appbrewery.co/)).
